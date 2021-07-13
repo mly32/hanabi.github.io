@@ -27,5 +27,3 @@ players:
       - type: x
       - type: x
       - type: x
-  - text: If Alice has Red 3, Cathy blindly discards Red 3
-  - text: If Alice has Red 5, Cathy blindly plays Red 3

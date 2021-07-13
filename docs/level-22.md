@@ -8,10 +8,6 @@ import BlazeDiscard from '@site/image-generator/yml/level-22/blaze-discard.yml';
 import BlazeDiscard2 from '@site/image-generator/yml/level-22/blaze-discard-2.yml';
 import HesitationBlindPlay from '@site/image-generator/yml/level-22/hesitation-blind-play.yml';
 
-- Level 22 strategies should only be learned if you have 400+ games of experience with the group.
-
-<br />
-
 ## Conventions
 
 <br />
@@ -57,7 +53,7 @@ import HesitationBlindPlay from '@site/image-generator/yml/level-22/hesitation-b
 
 ### The Blaze Discard
 
-- Normally, if a player performs a *Gentleman's Discard* and the other card is **not** on *Finesse Position*, it could one of two things:
+- Normally, if a player performs a *Gentleman's Discard* and the other card is **not** on *Finesse Position*, it could be one of two things:
   1. If the card on *Finesse Position* is itself playable right now, then it would be a *Layered Gentleman's Discard*.
   1. If the card on *Finesse Position* is not playable right now, then it is an emergency situation.
 - Alternatively, if a player performs a *Baton Discard* and the other card is **not** on *Finesse Position*, then it is an emergency situation.
